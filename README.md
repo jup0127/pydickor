@@ -1,0 +1,4 @@
+pydic
+=====
+
+python dictionary project
